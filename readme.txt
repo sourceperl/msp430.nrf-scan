@@ -3,9 +3,9 @@ main.c
 
 this sample is for an MSP430G2553 (Texas Instrument uC)
 it's a channel scanner for nRFL24l01+
+test on TI launchapd rev1.5
 
-to compile you need MSP430-GCC toolchain for Linux.
-i test this program on TI launchapd rev1.5.
+to compile you need MSP430-GCC toolchain for Linux :
 
 install command for "debian like" GNU/Linux :
   sudo apt-get install gcc-msp430 binutils-msp430 msp430-libc msp430mcu mspdebug
